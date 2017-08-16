@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Clip
+Type=Application
+Exec=bash /home/helio/clip.sh
+Icon=/home/helio/Imágenes/icons/clipboard.png
+Terminal=false
