@@ -2,5 +2,5 @@
 Name=Clip2text
 Type=Application
 Exec=bash /home/helio/clip.sh
-Icon=/home/helio/Imágenes/icons/clipboard.png
+Icon=~/Imágenes/icons/clipboard.png   # Caso não funcione o ~/ substitue pelo caminho (path) correspondente. 
 Terminal=false
