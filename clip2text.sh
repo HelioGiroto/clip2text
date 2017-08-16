@@ -1,8 +1,8 @@
 #!/bin/bash
 
 clip=$(xclip -o)
-echo $clip >> /home/helio/Escritorio/clip.txt
-echo "-" >> /home/helio/Escritorio/clip.txt
+echo $clip >> ~/Escritorio/clip.txt   # Em lugar de Escritorio, se pode usar Desktop
+echo "-" >> ~/Escritorio/clip.txt     # Em lugar de Escritorio, se pode usar Desktop
 espeak "copiado" -v pt-br
 
 
