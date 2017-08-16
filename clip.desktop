@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=Clip
+Name=Clip2text
 Type=Application
 Exec=bash /home/helio/clip.sh
 Icon=/home/helio/Imágenes/icons/clipboard.png
